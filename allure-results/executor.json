@@ -1,0 +1,6 @@
+{
+  "name": "Selenium",
+  "url": "http://localhost:3000",
+  "buildName": "QA Tests",
+  "type": "selenium"
+}
